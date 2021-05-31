@@ -1,4 +1,4 @@
-# Global Sanctuary Fund Mastery Challenge
+# Global Sanctuary Fund Challenge
 
 ## Context
 You are a Frontend Developer at Global Sanctuary Fund, a non profit organization which has the mission to conserve nature and preserve the most pressing threats to the diversity of life on earth. 
