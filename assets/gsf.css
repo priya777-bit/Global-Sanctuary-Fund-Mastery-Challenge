@@ -51,8 +51,8 @@ h2{
 
 hr{
     margin-top: 40px;
-    margin-left: 47%;
-    margin-right: 47%;
+    margin-left: 45%;
+    margin-right: 45%;
     border: 3px solid #989B97;
     border-radius: 10px;
 
@@ -101,4 +101,8 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
     display: inline-block;
+}
+
+.logo4{
+    border-radius:2%;
 }
